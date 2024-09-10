@@ -67,5 +67,5 @@ Several key trends were identified from the analysis:
    ## How to Use
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
-   ```bash gitclone 
+   ```bash gitclone https://github.com/kristinaabramoff/pandas-pycityschools.git
 
