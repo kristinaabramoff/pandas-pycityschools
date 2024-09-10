@@ -64,3 +64,8 @@ Several key trends were identified from the analysis:
 1. Schools with smaller student populations generally showed higher overall passing rates.
 2. Higher spending per student did not always correlate with better performance, as schools with moderate spending ranges had better overall passing rates compared to schools with the highest spending per student.
 
+   ## How to Use
+
+1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
+   ```bash gitclone 
+
